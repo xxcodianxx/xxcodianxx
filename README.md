@@ -7,5 +7,3 @@ My website is now at [codian.linux.church](https://codian.linux.church), I guess
 
 
 **Latest Complete Project** - [powerlawn :octocat:](https://github.com/xxcodianxx/powerlawn) <- This was a while ago!
-
-### ¯\_(ツ)_/¯
