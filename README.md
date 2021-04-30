@@ -1,9 +1,11 @@
 ### Keep pressing buttons and it'll work. Eventually. 🤔
+> ^ might need to revise this
 
-Have you not taken your daily gulp of unsee juice? :point_right: Here you go:
-```cpp
-class Object { public: static void object(Object &object) { object = Object(); }; };
-Object object; Object::object(object);
-```
+I'm working on quite a lot of stuff at the moment, and hopefully I won't drop them all halfway. (epic foreshadowing)
 
-**Latest Project** - [powerlawn :octocat:](https://github.com/xxcodianxx/powerlawn)
+My website is now at [codian.linux.church](https://codian.linux.church), I guess.
+
+
+**Latest Complete Project** - [powerlawn :octocat:](https://github.com/xxcodianxx/powerlawn) <- This was a while ago!
+
+### ¯\_(ツ)_/¯
